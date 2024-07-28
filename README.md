@@ -3,7 +3,7 @@ Youtube - React Development Environment Setup From Scratch With TypeScript, Webp
 
 ## Installation
 
-`git clone https://github.com/full-stackcoder/react-from-scratch.git`
+`git clone https://github.com/fullstackpro-io/react-from-scratch.git`
 `npm install`
 
 
